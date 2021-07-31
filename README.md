@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# Scrimba-Moon Base Alpha project taught by Kevin Powell. 
 
 ## Supporting Scrimba
 
